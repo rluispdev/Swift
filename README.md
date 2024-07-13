@@ -3,7 +3,7 @@
  
  # 👨‍💻 PROJETOS CATEGORIZADOS SWIFT
  
-<a href="https://github.com/rluispdev?tab=repositories&q=&type=&language=swift&sort=" target="_blank">SWIFT Publics GitHub Repositories</a>
+GitHub Repositories](https://github.com/rluispdev?tab=repositories&q=&type=&language=swift&sort=)
 
  
 
